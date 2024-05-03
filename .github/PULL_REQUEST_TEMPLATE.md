@@ -7,7 +7,7 @@ This is where you provide the purpose of the pull request and  necessary backgro
 This is where becomes technical. Here is where you can be more focused on the engineering side of your solution. List the changes made in this pull request. Include details such as added features, bug fixes, refactorings, etc.
 
 **Outside of Codebase Changes:** 
-If you have made changes outside of the codebase, this is where explain you explain them. This changes typically include updates to third-party services, changes to infrastructure configuration, integration with external APIs, updates, documentation, etc.
+If you have made changes outside of the codebase, this is where you explain them. This changes typically include updates to third-party services, changes to infrastructure configuration, integration with external APIs, updates, documentation, etc.
 
 ## Related Issues
 This is where you reference any related issues or tasks from your project management system (e.g., GitHub issues, Jira tickets) that are addressed by this pull request. Use GitHub issue references (e.g., "#123") or describe the issue briefly.
@@ -22,7 +22,7 @@ Please provide step-by-step instructions for testing the changes, including any 
 
 ## Quality Checklist
 
-Please make sure to review and check the following before submitting your pull request. Remove any items that are not applicable.
+Please make sure to review and check the following before submitting your pull request: Remove any items that are not applicable.
 
 - [] Code changes have been thoroughly reviewed
 
@@ -46,4 +46,4 @@ Please make sure to review and check the following before submitting your pull r
 
 ## Additional Notes
 
-Here you provide any additional information that might be useful to the reviewer in evaluating this pull request. This could include performance and security considerations, design choices, known limitations, dependencies, planned future enhancement, compatibility (like backward compatibility with APIs, libraries) etc.
+Here, you provide any additional information that might be useful to the reviewer in evaluating this pull request. This could include performance and security considerations, design choices, known limitations, dependencies, planned future enhancements, compatibility (like backward compatibility with APIs, libraries), etc.
