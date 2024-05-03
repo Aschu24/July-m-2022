@@ -24,23 +24,23 @@ Please provide step-by-step instructions for testing the changes, including any 
 
 Please make sure to review and check the following before submitting your pull request: Remove any items that are not applicable.
 
-[] Code changes have been thoroughly reviewed
+- [] Code changes have been thoroughly reviewed
 
-[] Code follows the project's coding standards and style guidelines
+- [] Code follows the project's coding standards and style guidelines
 
-[] All commit messages are clear and descriptive
+- [] All commit messages are clear and descriptive
 
-[] Hard-to-understand areas have been commented in the code
+- [] Hard-to-understand areas have been commented in the code
 
-[] Unit tests have been added/updated (if applicable) 
+- [] Unit tests have been added/updated to cover the authentication and authorization logic
 
-[] Documentation has been updated to reflect the changes (if applicable)
+- [] Documentation has been updated to reflect the changes (if applicable)
 
-[] All tests pass locally
+- [] All tests pass locally
 
-[] The PR has been reviewed for potential security vulnerabilities, such as SQL injection or XSS attacks
+- [] The PR has been reviewed for potential security vulnerabilities, such as SQL injection or XSS attacks
 
-[] Any external dependencies have been updated (if applicable)
+- [] Any external dependencies have been updated (if applicable)
 
  
 
